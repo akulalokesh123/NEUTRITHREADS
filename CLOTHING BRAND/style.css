@@ -179,7 +179,7 @@ body {
 
 .hero-section{
     display:flex;
-    background-image: url(/img/img2.webp);
+    background-image: url(img/img2.webp);
     height:650px;
     background-size: cover;
     
