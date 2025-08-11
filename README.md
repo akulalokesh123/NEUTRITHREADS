@@ -28,7 +28,3 @@ Engage with Us – Share feedback, ideas, and discussions!
 📬 Connect with Us
 Stay updated and be part of the Neutrithreads movement:
 
-Website: [Coming Soon]
-Instagram: @
-Twitter: @
-Email: akulalokesh1234@gmail.com
